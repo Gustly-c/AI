@@ -1,0 +1,1 @@
+"""UniSchedule desktop application package."""
